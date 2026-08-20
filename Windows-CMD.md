@@ -10,3 +10,4 @@ Displays files and folders in the current directory.
 
 ```cmd
 dir
+
